@@ -1,0 +1,110 @@
+[
+    {
+      "precio": 12,
+      "id": 1,
+      "title": "Barras Paralelas ajustables",
+      "thumbnailUrl": "src/productos/Paralelas/1.jpg"
+    },
+    {
+      "precio": 25,
+      "id": 2,
+      "title": "Anillas de Acero",
+      "thumbnailUrl": "src/productos/Anillas/1.jpg"
+    },
+    {
+      "precio": 52,
+      "id": 3,
+      "title": "Barras Paralelas ajustables",
+      "thumbnailUrl": "src/productos/Barra de dominadas/1.jpg"
+    },
+    {
+      "precio": 34,
+      "id": 4,
+      "title": "Callera de alta durabilidad Marca Roar",
+      "thumbnailUrl": "src/productos/Calleras/1.jpg"
+    },
+    {
+      "precio": 22,
+      "id": 5,
+      "title": "Chaleco Lastrado de 15KG",
+      "thumbnailUrl": "src/productos/Chalecos Lastrados/1.jpg"
+    },
+    {
+      "precio": 27,
+      "id": 6,
+      "title": "Cinturon de Lastre Marca Lycan",
+      "thumbnailUrl": "src/productos/Cinturon De Lastre/2.jpg"
+    },
+    {
+      "precio": 13,
+      "id": 7,
+      "title": "Cuerdas para saltar de plastico",
+      "thumbnailUrl": "src/productos/Cuerdas de Saltar/5.jpeg"
+    },
+    {
+      "precio": 34,
+      "id": 8,
+      "title": "Kettlebell de 16KG",
+      "thumbnailUrl": "src/productos/Kettlebell/2.jpg"
+    },
+    {
+      "precio": 37.99,
+      "id": 9,
+      "title": "TRX ajustable",
+      "thumbnailUrl": "src/productos/TRX/1.jpg"
+    },
+    {
+      "precio": 9.99,
+      "id": 10,
+      "title": "Bloques de Magnesio para gimnacia",
+      "thumbnailUrl": "src/productos/Magnesio/1.jpg"
+    },
+    {
+      "precio": 15,
+      "id": 11,
+      "title": "Mini paralelas de madera",
+      "thumbnailUrl": "src/productos/Agarraderas/3.jpg"
+    },
+    {
+      "precio": 32,
+      "id": 12,
+      "title": "Barra de Dominadas instalable",
+      "thumbnailUrl": "src/productos/Barra de dominadas/5.jpg"
+    },
+    {
+      "precio": 17,
+      "id": 13,
+      "title": "Calleras para calistenia",
+      "thumbnailUrl": "src/productos/Calleras/3.jpeg"
+    },
+    {
+      "precio": 29,
+      "id": 14,
+      "title": "Rueda Abdominal",
+      "thumbnailUrl": "src/productos/Rueda Abdominal/1.webp"
+    },
+    {
+      "precio": 46,
+      "id": 15,
+      "title": "Chaleco Lastrado ajustable hasta 20KG",
+      "thumbnailUrl": "src/productos/Chalecos Lastrados/2.jpg"
+    },
+    {
+      "precio": 33,
+      "id": 16,
+      "title": "Cuerda De saltar profesional",
+      "thumbnailUrl": "src/productos/Cuerdas de Saltar/6.jpg"
+    },
+    {
+        "precio": 14,
+        "id": 17,
+        "title": "Magnesio en Polvo marca Monkey Hands",
+        "thumbnailUrl": "src/productos/Magnesio/2.webp"
+      },
+    {
+        "precio": 26,
+        "id": 18,
+        "title": "Anillas de Gimnasia basicas",
+        "thumbnailUrl": "src/productos/Anillas/6.jpg"
+      }
+  ]
